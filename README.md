@@ -1,6 +1,6 @@
 [![image](https://github.com/jcdumlao14/CloudcreditsTechnologies-Data-Science-Internship/blob/main/Cloudtech.png?raw=true)](https://cloudcreditstechnologies.in/)
 
-[![Watch Demo](https://github.com/jcdumlao14/CloudcreditsTechnologies-Data-Science-Internship/blob/main/demo-thumbnails.png)](https://cloudcreditstechnologies.in/)
+[![Watch Demo](https://github.com/jcdumlao14/CloudcreditsTechnologies-Data-Science-Internship/blob/main/demo.png)](https://cloudcreditstechnologies.in/)
 
 
 # Data Science Internship Program at [CloudcreditsTechnologies](https://cloudcreditstechnologies.in/)
