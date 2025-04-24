@@ -18,7 +18,7 @@
 9. **🔧 *Improve the Model*:** Tune hyperparameters, try different algorithms, or enhance features.
 10. **🚀 *Deploy the Model (optional)*:** Create an application or API to make predictions using the trained model.
 
-## 🔹Project 1: Sentiment Analysis on Social Media
+## 🔹[Project 1: Sentiment Analysis on Social Media](https://github.com/jcdumlao14/CloudcreditsTechnologies-Data-Science-Internship/blob/main/Project_1_Sentiment_Analysis_on_Social_Media.ipynb)
 ### 📝 Description: 
 Analyze social media posts or reviews to determine the sentiment (positive, negative, neutral). Use natural language processing (NLP) techniques to preprocess the text and train a sentiment analysis model. Visualize sentiment trends over time or by 
 topic.
