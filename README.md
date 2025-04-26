@@ -23,7 +23,7 @@
 Analyze social media posts or reviews to determine the sentiment (positive, negative, neutral). Use natural language processing (NLP) techniques to preprocess the text and train a sentiment analysis model. Visualize sentiment trends over time or by 
 topic.
 ### 📂 Dataset: [Kaggle Dataset/Telegram Channels Related to Cryptocurrencies](https://www.kaggle.com/datasets/jocelyndumlao/telegram-channels-related-to-cryptocurrencies)
-### 🎥 **[Watch Project 1 Video on YouTube](https://)**
+### 🎥 **[Watch Project 1 Video on YouTube](https://youtu.be/A6P8oUGAhsI)**
 
 
 ## 🔹Project 2: House Price Estimator 
