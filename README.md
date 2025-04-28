@@ -26,7 +26,7 @@ topic.
 ### 🎥 **[Watch Project 1 Video on YouTube](https://youtu.be/A6P8oUGAhsI)**
 
 
-## 🔹Project 2: House Price Estimator 
+## 🔹[Project 2: House Price Estimator](https://github.com/jcdumlao14/CloudcreditsTechnologies-Data-Science-Internship/blob/main/Project_2_House_Price_Estimator.ipynb)
 ### 📝 Description: 
 Create a regression model to predict house prices based on various features such as location, size, number of bedrooms, and amenities. Use data visualization to show the distribution of house prices and feature importance.
 
