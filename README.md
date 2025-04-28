@@ -28,10 +28,16 @@ topic.
 ### 🎥 **[Watch Project 1 Video on YouTube](https://youtu.be/A6P8oUGAhsI)**
 
 
+![image](https://github.com/user-attachments/assets/24100e9b-a394-4c23-b424-2b97a45ec3e4)
+
+
 ## 🔹[Project 2: House Price Estimator](https://github.com/jcdumlao14/CloudcreditsTechnologies-Data-Science-Internship/blob/main/Project_2_House_Price_Estimator.ipynb)
 ### 📝 Description: 
 Create a regression model to predict house prices based on various features such as location, size, number of bedrooms, and amenities. Use data visualization to show the distribution of house prices and feature importance.
 
+
+### 📂 Dataset: [Kaggle Dataset/House Sales in King County, USA](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction/data)
+### 🎥 **[Watch Project 1 Video on YouTube](https:)**
 
 
 
