@@ -30,6 +30,7 @@ topic.
 
 ### 🎥 **[Watch Project 1 Video on YouTube](https://youtu.be/A6P8oUGAhsI)**
 
+🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
 
 ![image](https://github.com/user-attachments/assets/24100e9b-a394-4c23-b424-2b97a45ec3e4)
 
@@ -43,7 +44,9 @@ Create a regression model to predict house prices based on various features such
 
 ### 📂 [Check out my full project code](https://github.com/jcdumlao14/CloudcreditsTechnologies-Data-Science-Internship/blob/main/Project_2_House_Price_Estimator.ipynb)
 
-### 🎥 **[Watch Project 1 Video on YouTube](https://youtu.be/twSkw0X7PTM)**
+### 🎥 **[Watch Project 2 Video on YouTube](https://youtu.be/twSkw0X7PTM)**
+
+🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
 
 
 
