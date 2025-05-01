@@ -25,6 +25,9 @@
 Analyze social media posts or reviews to determine the sentiment (positive, negative, neutral). Use natural language processing (NLP) techniques to preprocess the text and train a sentiment analysis model. Visualize sentiment trends over time or by 
 topic.
 ### 📂 Dataset: [Kaggle Dataset/Telegram Channels Related to Cryptocurrencies](https://www.kaggle.com/datasets/jocelyndumlao/telegram-channels-related-to-cryptocurrencies)
+
+### 📂 [Check out my full project code](https://github.com/jcdumlao14/CloudcreditsTechnologies-Data-Science-Internship/blob/main/Project_1_Sentiment_Analysis_on_Social_Media.ipynb)
+
 ### 🎥 **[Watch Project 1 Video on YouTube](https://youtu.be/A6P8oUGAhsI)**
 
 
@@ -37,7 +40,10 @@ Create a regression model to predict house prices based on various features such
 
 
 ### 📂 Dataset: [Kaggle Dataset/House Sales in King County, USA](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction/data)
-### 🎥 **[Watch Project 1 Video on YouTube](https:)**
+
+### 📂 [Check out my full project code](https://github.com/jcdumlao14/CloudcreditsTechnologies-Data-Science-Internship/blob/main/Project_2_House_Price_Estimator.ipynb)
+
+### 🎥 **[Watch Project 1 Video on YouTube](https://youtu.be/twSkw0X7PTM)**
 
 
 
