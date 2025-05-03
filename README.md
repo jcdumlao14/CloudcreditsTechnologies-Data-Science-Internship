@@ -47,14 +47,16 @@ Create a regression model to predict house prices based on various features such
 ### 🎥 **[Watch Project 2 Video on YouTube](https://youtu.be/twSkw0X7PTM)**
 
 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
-![image](https://storage.googleapis.com/kaggle-datasets-images/222732/478846/5e002559c57e1b0862a55903c004d4a0/dataset-cover.jpg?t=2019-06-07-11-14-38)
 
-## 🔹Project 3: Customer Churn Predictor
+![image](https://github.com/user-attachments/assets/7d812a35-d1ae-4db1-8e6a-0b960b330572)
+
+## 🔹[Project 3: Customer Churn Predictor](https://github.com/jcdumlao14/CloudcreditsTechnologies-Data-Science-Internship/blob/main/Project_3_Customer_Churn_Predictor.ipynb)
 ### 📝 Description:
 Develop a model to predict whether a customer will stop using a service based on historical data. Use classification techniques and feature engineering to improve model accuracy. Visualize the key factors contributing to churn.
 
 ### 📂 Dataset:[Kaggle/Logisticregression telecomCustomer churmprediction](https://www.kaggle.com/datasets/dileep070/logisticregression-telecomcustomer-churmprediction/data)
 
-### 📂 [Check out my full project code]()
+### 📂 [Check out my full project code](https://github.com/jcdumlao14/CloudcreditsTechnologies-Data-Science-Internship/blob/main/Project_3_Customer_Churn_Predictor.ipynb)
 
 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
+
