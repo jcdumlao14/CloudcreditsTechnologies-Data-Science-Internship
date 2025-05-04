@@ -60,3 +60,19 @@ Develop a model to predict whether a customer will stop using a service based on
 
 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
 
+![image](https://github.com/user-attachments/assets/8218ee92-00c6-497b-8ec6-4c532068adbb)
+
+
+## 🔹[Project 4: Sales Forecasting](https://github.com/jcdumlao14/CloudcreditsTechnologies-Data-Science-Internship/blob/main/Project_4_Sales_Forecasting.ipynb)
+
+### 📝 Description:
+Develop a time series model to forecast future sales based on historical sales data. Experiment with different forecasting techniques like ARIMA, exponential smoothing, and machine learning models. Visualize the forecasted sales and compare model performance.
+
+### 📂 Dataset:[Kaggle/Store Sales Forecasting Dataset](https://www.kaggle.com/datasets/tanayatipre/store-sales-forecasting-dataset/data?select=stores_sales_forecasting.csv)
+
+### 📂 [Check out my full project code](https://github.com/jcdumlao14/CloudcreditsTechnologies-Data-Science-Internship/blob/main/Project_4_Sales_Forecasting.ipynb)
+
+### 📂 [Check out project code-Part 2](https://github.com/jcdumlao14/CloudcreditsTechnologies-Data-Science-Internship/blob/main/Project_4_Part_2_SalesForecasting.ipynb)
+
+🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
+
