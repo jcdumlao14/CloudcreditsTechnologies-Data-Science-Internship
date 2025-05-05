@@ -18,7 +18,7 @@
 9. **🔧 *Improve the Model*:** Tune hyperparameters, try different algorithms, or enhance features.
 10. **🚀 *Deploy the Model (optional)*:** Create an application or API to make predictions using the trained model.
 
-![image](https://github.com/user-attachments/assets/423db760-fd08-4a08-a352-5fb90d31964a)
+[![image](https://github.com/user-attachments/assets/423db760-fd08-4a08-a352-5fb90d31964a)](https://www.kaggle.com/datasets/jocelyndumlao/telegram-channels-related-to-cryptocurrencies)
 
 ## 🔹[Project 1: Sentiment Analysis on Social Media](https://github.com/jcdumlao14/CloudcreditsTechnologies-Data-Science-Internship/blob/main/Project_1_Sentiment_Analysis_on_Social_Media.ipynb)
 ### 📝 Description: 
@@ -36,6 +36,7 @@ topic.
 
 
 ## 🔹[Project 2: House Price Estimator](https://github.com/jcdumlao14/CloudcreditsTechnologies-Data-Science-Internship/blob/main/Project_2_House_Price_Estimator.ipynb)
+
 ### 📝 Description: 
 Create a regression model to predict house prices based on various features such as location, size, number of bedrooms, and amenities. Use data visualization to show the distribution of house prices and feature importance.
 
@@ -68,7 +69,7 @@ Develop a model to predict whether a customer will stop using a service based on
 ### 📝 Description:
 Develop a time series model to forecast future sales based on historical sales data. Experiment with different forecasting techniques like ARIMA, exponential smoothing, and machine learning models. Visualize the forecasted sales and compare model performance.
 
-### 📂 Dataset: [Kaggle/Store Sales Forecasting Dataset](https://www.kaggle.com/datasets/tanayatipre/store-sales-forecasting-dataset/data?select=stores_sales_forecasting.csv)
+### 📂 Dataset: [Kaggle Datasets/Store Sales Forecasting Dataset](https://www.kaggle.com/datasets/tanayatipre/store-sales-forecasting-dataset/data?select=stores_sales_forecasting.csv)
 
 ### 📂 [Check out my full project code](https://github.com/jcdumlao14/CloudcreditsTechnologies-Data-Science-Internship/blob/main/Project_4_Sales_Forecasting.ipynb)
 
@@ -78,11 +79,15 @@ Develop a time series model to forecast future sales based on historical sales d
 
 [![image](https://github.com/user-attachments/assets/2b4c221b-8d1c-43d6-abff-441710b89c01)](https://www.kaggle.com/datasets/jocelyndumlao/colored-flowers-in-bangladesh/data)
 
-## 🔹Project 5: Image Classification 
+## 🔹[Project 5: Image Classification](https://github.com/jcdumlao14/CloudcreditsTechnologies-Data-Science-Internship/blob/main/Project_5_Image_Classification.ipynb)
 
 ### 📝 Description:
 Train a convolutional neural network (CNN) to classify images into different categories. Use data augmentation and transfer learning to improve model performance. Visualize the classification results and model accuracy. 
 
 ### 📂 Dataset: [Kaggle Datasets/Colored Flowers in Bangladesh](https://www.kaggle.com/datasets/jocelyndumlao/colored-flowers-in-bangladesh/data)
 
-### 📂 [Check out my full project code]
+### 📂 [Check out my full project code](https://github.com/jcdumlao14/CloudcreditsTechnologies-Data-Science-Internship/blob/main/Project_5_Image_Classification.ipynb)
+
+### 📂 [Check out my full project code -Improved the Model](https://github.com/jcdumlao14/CloudcreditsTechnologies-Data-Science-Internship/blob/main/Project_5_image_classification_Improved_Model.ipynb)
+
+🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
