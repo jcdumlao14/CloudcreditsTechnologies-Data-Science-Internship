@@ -91,3 +91,14 @@ Train a convolutional neural network (CNN) to classify images into different cat
 ### 📂 [Check out my full project code -Improved the Model](https://github.com/jcdumlao14/CloudcreditsTechnologies-Data-Science-Internship/blob/main/Project_5_image_classification_Improved_Model.ipynb)
 
 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
+
+[![image](https://github.com/user-attachments/assets/3ce17fe4-50f4-4cfe-8003-6ecd0bf5614b)](https://www.kaggle.com/datasets/jocelyndumlao/bengali-movie-dataset)
+
+## 🔹[Project 6: Movie Recommendation System]()
+
+### 📝 Description:
+Build a recommendation system that suggests movies to users based on their viewing history and preferences. Use collaborative filtering, content-based filtering, or a hybrid approach. Visualize user preferences and recommendation accuracy.
+
+### 📂 Dataset: [Kaggle Dataset/Bengali Movie Dataset](https://www.kaggle.com/datasets/jocelyndumlao/bengali-movie-dataset)
+
+### 📂 [Check out my full project code]()
