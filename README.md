@@ -102,5 +102,5 @@ Build a recommendation system that suggests movies to users based on their viewi
 ### 📂 Dataset: [Kaggle Dataset/Bengali Movie Dataset](https://www.kaggle.com/datasets/jocelyndumlao/bengali-movie-dataset)
 
 ### 📂 [Check out my full project code](https://github.com/jcdumlao14/CloudcreditsTechnologies-Data-Science-Internship/blob/main/Project_6_Movie_Recommendation_System.ipynb)
-
+### 📂 [Check out my full project code - Model Improvement](https://github.com/jcdumlao14/CloudcreditsTechnologies-Data-Science-Internship/blob/main/Project_6_Movie_Recommendation_System__Model_Improvement.ipynb)
 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
