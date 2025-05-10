@@ -26,7 +26,7 @@
 
 ### 📂 Dataset: [Kaggle Dataset/Telegram Channels Related to Cryptocurrencies](https://www.kaggle.com/datasets/jocelyndumlao/telegram-channels-related-to-cryptocurrencies)
 
-### 📂 [Check out my full project code](https://github.com/jcdumlao14/CloudcreditsTechnologies-Data-Science-Internship/blob/main/Project_1_Sentiment_Analysis_on_Social_Media.ipynb)
+### 👉💻 [Check out my full project code!](https://github.com/jcdumlao14/CloudcreditsTechnologies-Data-Science-Internship/blob/main/Project_1_Sentiment_Analysis_on_Social_Media.ipynb)
 
 ### 🎥 **[Watch Project 1 Video on YouTube](https://youtu.be/A6P8oUGAhsI)**
 
@@ -43,7 +43,7 @@
 
 ### 📂 Dataset: [Kaggle Dataset/House Sales in King County, USA](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction/data)
 
-### 📂 [Check out my full project code](https://github.com/jcdumlao14/CloudcreditsTechnologies-Data-Science-Internship/blob/main/Project_2_House_Price_Estimator.ipynb)
+### 👉💻 [Check out my full project code!](https://github.com/jcdumlao14/CloudcreditsTechnologies-Data-Science-Internship/blob/main/Project_2_House_Price_Estimator.ipynb)
 
 ### 🎥 **[Watch Project 2 Video on YouTube](https://youtu.be/twSkw0X7PTM)**
 
@@ -57,7 +57,7 @@
 
 ### 📂 Dataset: [Kaggle Datasets/Logisticregression telecomCustomer churmprediction](https://www.kaggle.com/datasets/dileep070/logisticregression-telecomcustomer-churmprediction/data)
 
-### 📂 [Check out my full project code](https://github.com/jcdumlao14/CloudcreditsTechnologies-Data-Science-Internship/blob/main/Project_3_Customer_Churn_Predictor.ipynb)
+### 👉💻 [Check out my full project code!](https://github.com/jcdumlao14/CloudcreditsTechnologies-Data-Science-Internship/blob/main/Project_3_Customer_Churn_Predictor.ipynb)
 
 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
 
@@ -71,9 +71,9 @@
 
 ### 📂 Dataset: [Kaggle Datasets/Store Sales Forecasting Dataset](https://www.kaggle.com/datasets/tanayatipre/store-sales-forecasting-dataset/data?select=stores_sales_forecasting.csv)
 
-### 📂 [Check out my full project code](https://github.com/jcdumlao14/CloudcreditsTechnologies-Data-Science-Internship/blob/main/Project_4_Sales_Forecasting.ipynb)
+### 👉💻 [Check out my full project code!](https://github.com/jcdumlao14/CloudcreditsTechnologies-Data-Science-Internship/blob/main/Project_4_Sales_Forecasting.ipynb)
 
-### 📂 [Check out project code-Part 2](https://github.com/jcdumlao14/CloudcreditsTechnologies-Data-Science-Internship/blob/main/Project_4_Part_2_SalesForecasting.ipynb)
+### 👉💻 [Check out project code-Part 2](https://github.com/jcdumlao14/CloudcreditsTechnologies-Data-Science-Internship/blob/main/Project_4_Part_2_SalesForecasting.ipynb)
 
 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
 
@@ -86,9 +86,9 @@
 
 ### 📂 Dataset: [Kaggle Datasets/Colored Flowers in Bangladesh](https://www.kaggle.com/datasets/jocelyndumlao/colored-flowers-in-bangladesh/data)
 
-### 📂 [Check out my full project code](https://github.com/jcdumlao14/CloudcreditsTechnologies-Data-Science-Internship/blob/main/Project_5_Image_Classification.ipynb)
+### 👉💻 [Check out my full project code!](https://github.com/jcdumlao14/CloudcreditsTechnologies-Data-Science-Internship/blob/main/Project_5_Image_Classification.ipynb)
 
-### 📂 [Check out my full project code -Improved the Model](https://github.com/jcdumlao14/CloudcreditsTechnologies-Data-Science-Internship/blob/main/Project_5_image_classification_Improved_Model.ipynb)
+### 👉💻 [Check out project code -Improved the Model](https://github.com/jcdumlao14/CloudcreditsTechnologies-Data-Science-Internship/blob/main/Project_5_image_classification_Improved_Model.ipynb)
 
 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
 
@@ -101,8 +101,8 @@
 
 ### 📂 Dataset: [Kaggle Dataset/Bengali Movie Dataset](https://www.kaggle.com/datasets/jocelyndumlao/bengali-movie-dataset)
 
-### 📂 [Check out my full project code](https://github.com/jcdumlao14/CloudcreditsTechnologies-Data-Science-Internship/blob/main/Project_6_Movie_Recommendation_System.ipynb)
-### 📂 [Check out my full project code - Model Improvement](https://github.com/jcdumlao14/CloudcreditsTechnologies-Data-Science-Internship/blob/main/Project_6_Movie_Recommendation_System__Model_Improvement.ipynb)
+### 👉💻 [Check out my full project code!](https://github.com/jcdumlao14/CloudcreditsTechnologies-Data-Science-Internship/blob/main/Project_6_Movie_Recommendation_System.ipynb)
+### 👉💻 [Check out project code - Model Improvement](https://github.com/jcdumlao14/CloudcreditsTechnologies-Data-Science-Internship/blob/main/Project_6_Movie_Recommendation_System__Model_Improvement.ipynb)
 
 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
 
@@ -115,11 +115,24 @@
 
 ### 📂 Dataset: [Kaggle Dataset/Numenta Anomaly Benchmark (NAB)](https://www.kaggle.com/datasets/boltzmannbrain/nab/data?select=realKnownCause)
 
-### 📂 [Check out my full project code](https://github.com/jcdumlao14/CloudcreditsTechnologies-Data-Science-Internship/blob/main/Project_7_Anomaly_Detection_in_Network_Traffic.ipynb)
+### 👉💻 [Check out my full project code!](https://github.com/jcdumlao14/CloudcreditsTechnologies-Data-Science-Internship/blob/main/Project_7_Anomaly_Detection_in_Network_Traffic.ipynb)
 
-### 📂 [Check out training Notebook](https://github.com/jcdumlao14/CloudcreditsTechnologies-Data-Science-Internship/blob/main/Project%207/Project_7_Anomaly_Detection_Training.ipynb)
+### 👉💻 [Check out training Notebook](https://github.com/jcdumlao14/CloudcreditsTechnologies-Data-Science-Internship/blob/main/Project%207/Project_7_Anomaly_Detection_Training.ipynb)
 
 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
 
+![image](https://github.com/user-attachments/assets/85f24864-480b-44de-bacd-28820317a297)
 
+## 🔹[Project 8: Energy Consumption Analysis](https://github.com/jcdumlao14/CloudcreditsTechnologies-Data-Science-Internship/blob/main/Project_8_Energy_Consumption_Analysis.ipynb)
+
+### 📝 Description:
+#### Analyze and predict energy consumption patterns in a building or city. Use time series analysis and regression models to understand the factors affecting energy usage. Visualize energy consumption trends and model predictions. 
+
+### 📂 Dataset: [Kaggle Dataset/World Energy Consumption](https://www.kaggle.com/datasets/pralabhpoudel/world-energy-consumption)
+
+### 👉💻 [Check out my full project code!](https://github.com/jcdumlao14/CloudcreditsTechnologies-Data-Science-Internship/blob/main/Project_8_Energy_Consumption_Analysis.ipynb)
+
+### 👉💻 [Check out project code Improved Energy Consumption Prediction.ipynb](https://github.com/jcdumlao14/CloudcreditsTechnologies-Data-Science-Internship/blob/main/Project_8_Improved_Energy_Consumption_Prediction.ipynb)
+
+🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
 
